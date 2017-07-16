@@ -13,7 +13,7 @@
 					<div class="12u">
 						<input name="name" placeholder="Email" type="text" />
 					</div>
-					<div class="12u" style="padding-top: 2em">
+					<div class="12u">
 						<input name="password" placeholder="Password" type="password" />
 					</div>
 				</div>

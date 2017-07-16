@@ -10,7 +10,7 @@
 				<div id="header" class="container">
 
 					<!-- Logo -->
-					<h1 id="logo"><a href="index.php"><img src="images/kmhe.png" style="height: 55px"></img></a></h1>
+					<h1 id="logo"><a href="index.php"><img src="images/kmhe2.png" style="height: 55px"></img></a></h1>
 
 					<!-- Nav -->
 					<nav id="nav">

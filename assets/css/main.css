@@ -2020,8 +2020,8 @@
 	}
 
 	.homepage #header-wrapper {
-		padding: 8em 0 10em 0;
-		height: 30em;
+		padding: 10em 0 10em 0;
+		height: 40em;
 		/* background-size: 128px 128px, 100% 100%, auto; */
 	}
 
@@ -2061,6 +2061,7 @@
 			height: 4em;
 			line-height: 4em;
 			padding-top: 10px;
+			border: none;
 			/*
 			background: rgba(255, 255, 255, 0.15);
 			border: solid 1px;
@@ -2768,10 +2769,10 @@
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
-				background-image: url("images/overlay.png"), url("images/navPanel.svg"), -moz-linear-gradient(top, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.25));
-				background-image: url("images/overlay.png"), url("images/navPanel.svg"), -webkit-linear-gradient(top, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.25));
-				background-image: url("images/overlay.png"), url("images/navPanel.svg"), -ms-linear-gradient(top, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.25));
-				background-image: url("images/overlay.png"), url("images/navPanel.svg"), linear-gradient(top, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.25));
+				background-image: url("images/overlay.png"), url("images/navPanel.svg"), -moz-linear-gradient(top, #0067AC, #0067AC);
+				background-image: url("images/overlay.png"), url("images/navPanel.svg"), -webkit-linear-gradient(top, #0067AC, #0067AC);
+				background-image: url("images/overlay.png"), url("images/navPanel.svg"), -ms-linear-gradient(top, #0067AC, #0067AC);
+				background-image: url("images/overlay.png"), url("images/navPanel.svg"), linear-gradient(top, #0067AC, #0067AC);
 				display: block;
 				left: 0;
 				overflow-y: auto;
