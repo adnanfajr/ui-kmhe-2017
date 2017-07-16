@@ -1,5 +1,5 @@
-<body class="homepage">
-    <div id="page-wrapper">
+<body class="no-sidebar">
+		<div id="page-wrapper">
 
         <!-- Header -->
         <div id="header-wrapper">
@@ -28,4 +28,5 @@
                     </ul>
                 </nav>
 
+            </div>
             </div>

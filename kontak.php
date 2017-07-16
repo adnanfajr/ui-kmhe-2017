@@ -2,8 +2,9 @@
 	require 'inc/header.php';
 	require 'inc/nav.php';
 ?>
+	<!-- Features 1 -->
 	<div class="wrapper">
-		<section class="container">
+		<div class="container">
 			<header class="major">
 				<h2>Hubungi Kami</h2>
 				<p></p>
@@ -49,9 +50,9 @@
 					</div>
 				</section>
 			</div>
-		</section>
+		</div>
 	</div>
 
-	<?php
+<?php
 	require 'inc/footer.php';
 ?>
