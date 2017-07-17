@@ -11,12 +11,8 @@
 				<header>
 					<h2>Tentang KMHE</h2>
 				</header>
-				<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-				<p>Ut sed tortor luctus, gravida nibh eget, volutpat odio. Proin rhoncus, sapien mollis luctus hendrerit, orci dui viverra
-					metus, et cursus nulla mi sed elit. Vestibulum condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu
-					fringilla lacus ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque eros. Duis faucibus
-					blandit ligula, mollis commodo risus sodales at. Sed rutrum et turpis vel blandit. Nullam ornare congue massa, at commodo
-					nunc venenatis varius. Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
+				<a href="#" class="image featured"><img src="images/tentang-kmhe.png" alt="" /></a>
+				<p>KMHE adalah event yang diselenggarakan oleh DIKTI dalam skala nasional, tiap tahunnya memperlombakan mobil kreasi mahasiswa dari berbagai lembaga pendidikan tinggi. KMHE berorientasi pada efisiensi energi dari mobil rancangan mahasiswa hasil pengaplikasian ilmu yang diterima selama kuliah. Perlombaan dibagi menjadi dua kategori berdasarkan target perancangan, yaitu Prototype dan Urban. Mobil dalam kompetisi KMHE dibagi berdasarkan macam bahan bakar yang digunakan, di antaranya Gasoline, Diesel, Listrik, dan Etanol.</p>
 			</article>
 
 			<!-- Features 2 -->

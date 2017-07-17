@@ -2007,6 +2007,7 @@
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("../../images/ezzy.jpg");
+		background-repeat: none;
 		/*
 		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
